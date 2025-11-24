@@ -1,0 +1,27 @@
+Cell 1: OK | First line: # Notebook runtime config (unconditional; avoid heavy imports here)
+
+Cell 2: OK | First line: # If running in Colab, uncomment to install dependencies
+
+Cell 3: SKIPPED (Missing heavy package: No module named 'torch') | First line: # Ensure num_labels exists
+
+Cell 5: OK | First line: try:
+
+Cell 7: OK | First line: if 'ds_train' not in globals() or ds_train is None:
+
+Cell 9: OK | First line: if 'ds_train' not in globals() or ds_train is None:
+
+Cell 11: OK | First line: if 'ds_train' not in globals() or ds_train is None:
+
+Cell 13: OK | First line: if 'X_pad' not in globals() or X_pad is None:
+
+Cell 15: OK | First line: if 'model' not in globals() or model is None:
+
+Cell 17: OK | First line: if not globals().get('ENABLE_WAV2VEC2', False):
+
+Cell 19: OK | First line: if 'model' not in globals() or model is None:
+
+Cell 21: OK | First line: if 'ds_train' not in globals() or ds_train is None:
+
+Cell 23: OK | First line: try:
+
+Cell 25: SKIPPED (Missing heavy package: No module named 'transformers') | First line: # Ensure num_labels exists
